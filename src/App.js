@@ -28,7 +28,7 @@ class App extends Component {
               />
               <img
                 src={(window.screen.width < 680 ) ? bgPatternMobile : bgPatternDesktop}
-                className="w-8/12 absolute -bottom-14 sm:w-full sm:bottom-16 sm:-left-20"
+                className="w-8/12 absolute sm:w-5/first-letter: sm:w-full sm:-left-20"
               />
 
               <img src={illustrationBoxDesktop} className='w-auto hidden  sm:block absolute -left-32 top-1/5'/>
