@@ -49,7 +49,8 @@ In this project I decide to introduce new tools for me and practice Tailwind wit
 
 ## Author
 
-Website - Hi! i'm Alan!
-Frontend Mentor - @Alan08t
-Twitter - @alan_torino
-Linkedin - Alan Torino
+- Website - [Hi! i'm Alan!](https://github.com/Alan08t)
+- Frontend Mentor - [@Alan08t](https://www.frontendmentor.io/profile/Alan08t)
+- Twitter - [@alan_torino](https://twitter.com/alan_torino)
+- Linkedin - [Alan Torino](https://www.linkedin.com/in/alan-torino/)
+
